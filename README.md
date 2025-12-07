@@ -46,9 +46,9 @@ You will find two main types of content here:
 ### 🧩 **Assignments & Labs**
 
 Assignments 0 - Welcome to CS106B
-* [Hello World](github.com/blablabla.c)
-* [Vectorzing](github.com/blablabla.c)
-* [**Note 00**](./notes/01_cpp_intro.md)
+* [Hello World](https://github.com/codeonthespectrum/cs106b-stanford-activities/tree/main/assignments/hello_world)
+* [Vectorzing](https://github.com/codeonthespectrum/cs106b-stanford-activities/tree/main/assignments/vectorizing)
+* [**Note 00**](https://github.com/codeonthespectrum/cs106b-stanford-activities/blob/main/notes/notes-0.md)
 
 Assignments 1 - Getting Your C++ Legs
 * [Activiy 1](github.com/blablabla.c)
